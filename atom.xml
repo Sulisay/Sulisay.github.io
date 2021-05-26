@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://100457.github.io/Specialequipment.io/</id>
+    <id>https://100457.github.io/</id>
     <title>设备基本信息</title>
-    <updated>2021-05-26T10:10:52.417Z</updated>
+    <updated>2021-05-26T10:14:57.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://100457.github.io/Specialequipment.io/"/>
-    <link rel="self" href="https://100457.github.io/Specialequipment.io/atom.xml"/>
-    <logo>https://100457.github.io/Specialequipment.io/images/avatar.png</logo>
-    <icon>https://100457.github.io/Specialequipment.io/favicon.ico</icon>
+    <link rel="alternate" href="https://100457.github.io/"/>
+    <link rel="self" href="https://100457.github.io/atom.xml"/>
+    <logo>https://100457.github.io/images/avatar.png</logo>
+    <icon>https://100457.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 设备基本信息</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://100457.github.io/Specialequipment.io/post/hello-gridea/</id>
-        <link href="https://100457.github.io/Specialequipment.io/post/hello-gridea/">
+        <id>https://100457.github.io/post/hello-gridea/</id>
+        <link href="https://100457.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
