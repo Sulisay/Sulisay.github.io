@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://100457.github.io/tzsb.io/</id>
+    <id>https://sulisay.github.io/</id>
     <title>设备基本信息</title>
-    <updated>2021-05-26T13:58:02.000Z</updated>
+    <updated>2021-05-26T14:42:44.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://100457.github.io/tzsb.io/"/>
-    <link rel="self" href="https://100457.github.io/tzsb.io/atom.xml"/>
-    <logo>https://100457.github.io/tzsb.io/images/avatar.png</logo>
-    <icon>https://100457.github.io/tzsb.io/favicon.ico</icon>
+    <link rel="alternate" href="https://sulisay.github.io/"/>
+    <link rel="self" href="https://sulisay.github.io/atom.xml"/>
+    <logo>https://sulisay.github.io/images/avatar.png</logo>
+    <icon>https://sulisay.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 设备基本信息</rights>
     <entry>
         <title type="html"><![CDATA[详细信息]]></title>
-        <id>https://100457.github.io/tzsb.io/post/xin-xi/</id>
-        <link href="https://100457.github.io/tzsb.io/post/xin-xi/">
+        <id>https://sulisay.github.io/post/xin-xi/</id>
+        <link href="https://sulisay.github.io/post/xin-xi/">
         </link>
         <updated>2021-04-27T11:13:24.000Z</updated>
-        <content type="html"><![CDATA[<p>使用证编号：梯11滇D02229（21）<br>
-使用单位名称：昭通高速装配式建筑有限公司<br>
-设备使用地点：鲁甸县卯家湾扶贫产业园区<br>
+        <content type="html"><![CDATA[<p>使用证编号：梯11滇D02235（21）<br>
+使用单位名称：廖万芝<br>
+设备使用地点：云南省昭通市巧家县白鹤滩镇岩湾安置点<br>
 设备种类：电梯<br>
 设备类别：曳引与驱动强制电梯<br>
-设备品种：曳引驱动载货电梯<br>
-单位内编号：货01#<br>
-设备代码：311010366202101120<br>
-产品编号：2020122201<br>
-登记机关：鲁甸县市场监督管理局<br>
+设备品种：曳引驱动乘客电梯<br>
+单位内编号：01#<br>
+设备代码：311010617202101235<br>
+产品编号：K21011235<br>
+登记机关：巧家县市场监督管理局<br>
 发证日期：2021年04月27日</p>
 ]]></content>
     </entry>
