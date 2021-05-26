@@ -1,44 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://100457.github.io/</id>
+    <id>https://100457.github.io/tzsb.io/</id>
     <title>设备基本信息</title>
-    <updated>2021-05-26T10:14:57.421Z</updated>
+    <updated>2021-05-26T13:41:35.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://100457.github.io/"/>
-    <link rel="self" href="https://100457.github.io/atom.xml"/>
-    <logo>https://100457.github.io/images/avatar.png</logo>
-    <icon>https://100457.github.io/favicon.ico</icon>
+    <link rel="alternate" href="https://100457.github.io/tzsb.io/"/>
+    <link rel="self" href="https://100457.github.io/tzsb.io/atom.xml"/>
+    <logo>https://100457.github.io/tzsb.io/images/avatar.png</logo>
+    <icon>https://100457.github.io/tzsb.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 设备基本信息</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://100457.github.io/post/hello-gridea/</id>
-        <link href="https://100457.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[详细信息]]></title>
+        <id>https://100457.github.io/tzsb.io/post/xin-xi/</id>
+        <link href="https://100457.github.io/tzsb.io/post/xin-xi/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2021-04-27T11:13:24.000Z</updated>
+        <content type="html"><![CDATA[<p>使用证编号：梯11滇D02229（21）<br>
+使用单位名称：昭通高速装配式建筑有限公司<br>
+设备使用地点：鲁甸县卯家湾扶贫产业园区<br>
+设备种类：电梯<br>
+设备类别：曳引与驱动强制电梯<br>
+设备品种：曳引驱动载货电梯<br>
+单位内编号：货01#<br>
+设备代码：311010366202101120<br>
+产品编号：2020122201<br>
+登记机关：鲁甸县市场监督管理局<br>
+发证日期：2021年04月27日</p>
 ]]></content>
     </entry>
 </feed>
